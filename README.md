@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MantasKasperaitis
+- 👀 I’m interested in Python/C++/C
+- 🌱 I’m currently learning all of the above
